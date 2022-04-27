@@ -42,6 +42,8 @@ def main():
 
         elif option == 2:
             print("\nRecalculating all experiences...")
+        
+        
 
             
 
