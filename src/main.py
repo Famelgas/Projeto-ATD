@@ -18,6 +18,7 @@ static_activity_labels = ["SITTING", "STANDING", "LAYING"]
 transition_activity_labels = ["STAND_TO_SIT", "SIT_TO_STAND", "SIT_TO_LIE", "LIE_TO_SIT", "STAND_TO_LIE", "LIE_TO_STAND"]
 
 
+
 path_exp_data = "HAPT_Data_Set/RawData"
 path_labels = "HAPT_Data_Set/RawData/labels.txt"
 
